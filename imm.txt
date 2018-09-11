@@ -1,1 +1,2 @@
 zog("The Zen")zog("The Zen was here");
+zog("The Zen was here");
